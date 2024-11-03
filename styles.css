@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+#container {
+    display: flex;
+ }
+
+ #left-hand-side {
+    margin-top: 10px;
+ }
+ 
+ #breadcrumb {
+    color: #565959;
+    font-size: 12px;
+    margin-bottom: 10px;
+ }
+ 
+ #main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
+    margin-right: 30px;
+}
+
+#title {
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+
+#the-author {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    color: #007185;
+}
+
+#rating-img {
+    width: 130px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#cat-siege {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#first-paragraph {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#second-paragraph {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#third-paragraph {
+    margin-top: 10px;
+}
+ 
+ 
